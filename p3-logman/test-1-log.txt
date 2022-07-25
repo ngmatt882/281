@@ -1,8 +1,0 @@
-00:00:00:00:00|Cat|this line is all lowercase
-00:00:00:00:00|CAT|this line is all lowercase
-00:00:00:00:00|cat|ThiS lIne'iS noT all (lowercase)
-00:00:00:00:00|cat|This line is slightly different
-00:00:00:00:00|cat|&This line is slightly different#
-00:00:00:00:00|diff cat|this line is the same message
-00:00:00:00:00|difF Cat|this line has the same message
-00:00:00:00:00|difF-Cat|this line has a different category
