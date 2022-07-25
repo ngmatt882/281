@@ -1,0 +1,19 @@
+M
+3
+4
+//Use multiple elevators
+//level 0
+..E.
+....
+#.##
+...S
+//level 1
+....
+E...
+...H
+..#.
+//level 2
+..E.
+E...
+....
+....
