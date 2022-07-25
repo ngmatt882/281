@@ -1,4 +1,4 @@
-281 Project 2BA Zombbb
+# 281 Project 2BA Zombbb
 
 Simulation of a zombie apocalypse game.
 
