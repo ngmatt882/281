@@ -1,0 +1,20 @@
+c cat
+g
+c Cat
+g
+c cat diff
+c diff cat
+c diff-cat
+k line this
+k this line is
+g
+k this'line #is
+g
+k $this'line #is & 
+k lowercase
+k (lowercase)
+k cat
+k cat message
+k cat-message
+g
+q

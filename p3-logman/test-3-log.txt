@@ -1,0 +1,9 @@
+00:00:00:00:60|line 1|This is line 1
+00:00:00:00:01|line 2|This is line 2
+00:00:00:00:03|line 3|This is line 3
+00:00:00:00:02|line 4|This is line 4
+00:00:00:00:00|line 5|This is line 5
+00:00:00:01:99|line 6|This is line 6
+00:00:00:01:00|line 7|This is line 7
+00:00:00:00:99|line 8|This is line 8
+00:00:00:00:99|line 9|This is line 9

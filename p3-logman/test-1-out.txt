@@ -1,0 +1,40 @@
+8 entries read
+% Category search: 5 entries found
+% 0|00:00:00:00:00|Cat|this line is all lowercase
+1|00:00:00:00:00|CAT|this line is all lowercase
+2|00:00:00:00:00|cat|ThiS lIne'iS noT all (lowercase)
+3|00:00:00:00:00|cat|This line is slightly different
+4|00:00:00:00:00|cat|&This line is slightly different#
+% Category search: 5 entries found
+% 0|00:00:00:00:00|Cat|this line is all lowercase
+1|00:00:00:00:00|CAT|this line is all lowercase
+2|00:00:00:00:00|cat|ThiS lIne'iS noT all (lowercase)
+3|00:00:00:00:00|cat|This line is slightly different
+4|00:00:00:00:00|cat|&This line is slightly different#
+% Category search: 5 entries found
+% Category search: 2 entries found
+% Category search: 1 entries found
+% Keyword search: 8 entries found
+% Keyword search: 6 entries found
+% 0|00:00:00:00:00|Cat|this line is all lowercase
+1|00:00:00:00:00|CAT|this line is all lowercase
+2|00:00:00:00:00|cat|ThiS lIne'iS noT all (lowercase)
+3|00:00:00:00:00|cat|This line is slightly different
+4|00:00:00:00:00|cat|&This line is slightly different#
+5|00:00:00:00:00|diff cat|this line is the same message
+% Keyword search: 6 entries found
+% 0|00:00:00:00:00|Cat|this line is all lowercase
+1|00:00:00:00:00|CAT|this line is all lowercase
+2|00:00:00:00:00|cat|ThiS lIne'iS noT all (lowercase)
+3|00:00:00:00:00|cat|This line is slightly different
+4|00:00:00:00:00|cat|&This line is slightly different#
+5|00:00:00:00:00|diff cat|this line is the same message
+% Keyword search: 6 entries found
+% Keyword search: 3 entries found
+% Keyword search: 3 entries found
+% Keyword search: 8 entries found
+% Keyword search: 2 entries found
+% Keyword search: 2 entries found
+% 5|00:00:00:00:00|diff cat|this line is the same message
+6|00:00:00:00:00|difF Cat|this line has the same message
+% 
