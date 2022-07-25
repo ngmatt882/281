@@ -1,0 +1,22 @@
+#Zombies spawn at 0
+quiver-capacity: 10
+random-seed: 2049231
+max-rand-distance: 25
+max-rand-speed: 50
+max-rand-health: 1
+---
+round: 1
+random-zombies: 7
+named-zombies: 3
+MarkSchlissel distance: 150 speed: 300 health: 15
+MarySueColeman distance: 0 speed: 3 health: 6
+LeeBollinger distance: 100 speed: 1 health: 100
+---
+round: 3
+random-zombies: 10
+named-zombies: 1
+JamesDuderstadt distance: 20 speed: 10 health: 20
+---
+round: 4
+random-zombies: 1
+named-zombies: 0

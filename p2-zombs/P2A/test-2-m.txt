@@ -1,0 +1,14 @@
+#empty pq with more rounds
+quiver-capacity: 10
+random-seed: 2049231
+max-rand-distance: 150
+max-rand-speed: 50
+max-rand-health: 1
+---
+round: 1
+random-zombies: 15
+named-zombies: 0
+---
+round: 8
+random-zombies: 5
+named-zombies: 0

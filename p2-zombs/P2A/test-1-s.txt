@@ -1,0 +1,10 @@
+#kill all zombies before no arrows
+quiver-capacity: 10
+random-seed: 2049231
+max-rand-distance: 25
+max-rand-speed: 50
+max-rand-health: 1
+---
+round: 1
+random-zombies: 5
+named-zombies: 0

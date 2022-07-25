@@ -1,0 +1,14 @@
+#no zombies created in some rounds
+quiver-capacity: 10
+random-seed: 2049231
+max-rand-distance: 150
+max-rand-speed: 50
+max-rand-health: 1
+---
+round: 1
+random-zombies: 0
+named-zombies: 0
+---
+round: 3
+random-zombies: 4
+name-zombies: 0

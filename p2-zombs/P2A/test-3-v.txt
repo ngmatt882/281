@@ -1,0 +1,14 @@
+#kill everyone in round 1
+quiver-capacity: 10
+random-seed: 2049231
+max-rand-distance: 150
+max-rand-speed: 50
+max-rand-health: 1
+---
+round: 3
+random-zombies: 8
+named-zombies: 0
+---
+round: 4
+random-zombies: 8
+named-zombies: 0 
