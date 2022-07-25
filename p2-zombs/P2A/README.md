@@ -1,6 +1,6 @@
 # 281 Project 2BA Zombbb
 
-Simulation of a zombie apocalypse game.
+Simulation of a zombie apocalypse game using priority queues.
 
 Requires a number of zombies set to spawn in certain rounds. 
 Zombie stats are randomized unless specified. Specified zombies have names.
